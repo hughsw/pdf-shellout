@@ -1,22 +1,23 @@
 {
-  "name": "kira-pdfjs",
+  "name": "pdf-shellout",
   "version": "1.0.0",
-  "description": "PDF handling for Kira",
+  "description": "PDF handling for extracting business info",
   "main": "index.js",
   "scripts": {
+    "start": "gulp server",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "jimp": "0.6.4",
-    "lodash": "4.17.11",
-    "pdfjs-dist": "2.0.943",
+    "lodash": "4.17.14",
+    "pdfjs-dist": "2.1.266",
     "sharp": "0.22.1"
   },
   "devDependencies": {
     "gulp": "4.0.2",
     "st": "1.2.2",
-    "webpack": "4.35.0"
+    "webpack": "4.35.3"
   }
 }
