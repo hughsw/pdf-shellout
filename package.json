@@ -12,12 +12,12 @@
   "dependencies": {
     "jimp": "0.6.4",
     "lodash": "4.17.14",
-    "pdfjs-dist": "2.1.266",
+    "pdfjs-dist": "2.16.105",
     "sharp": "0.22.1"
   },
   "devDependencies": {
     "gulp": "4.0.2",
     "st": "1.2.2",
-    "webpack": "4.35.3"
+    "webpack": "5.75.0"
   }
 }
